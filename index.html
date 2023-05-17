@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>整点风声 - By Mr.Wang - 微信公众号：整点风声 🌹</title>
-  <link rel="icon" href="https://notebook.js.org/images/favicon.ico">
+  <link rel="icon" href="./images/favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="https://notebook.js.org/plugin/css/friends-link.css">
   <!-- 自定义特色样式：by myself -->
   <link rel="stylesheet" href="https://notebook.js.org/plugin/css/me.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css"> 
 
   <style>
 
@@ -178,7 +179,7 @@
     .markdown-section pre>code {
       color: #c0c3c1 !important;
       font-family: 'Inconsolata', consolas,"PingFang SC", "Microsoft YaHei", monospace !important;
-      background-color: #212121 !important;    //#accfff  #282c34
+      background-color: #212121 !important;   
       font-size: 15px !important;
       white-space: pre !important;
       line-height: 1.5 !important;
@@ -337,7 +338,6 @@
     }
 
   </style>
-
 </head>
 <body>
 <div id="app">🏃‍🏃‍🏃‍💨 加载中...</div>
@@ -347,7 +347,7 @@
       <div class="Tencent_code">
         <h4>关注作者公众号</h4>
         <p style="font-size: 12px;">万千小伙伴陪你一起学</p>
-        <img src="https://notebook.js.org/images/20220519-01-myinfo.jpg" alt="EnjoyToShare" />
+        <img src="./images/20220519-01-myinfo.jpg" alt="EnjoyToShare" />
       </div>
     </div>
 </div>
@@ -382,8 +382,8 @@
       ga: 'UA-164658031-2',
 
       footer: {
-        copy: '<div class = "over" >完结</div><br/><span>我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 打赏地址：<a href="https://wugenqiang.js.org/sponsor/" target="_blank">https://wugenqiang.js.org/sponsor/</a></span><iframe src="https://wugenqiang.js.org/sponsor/" style="overflow-x:hidden;overflow-y:hidden; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe><br/><span id="sitetime"></span><br/><span>Copyright &copy; 2019 - 至今</span>',
-        auth: ' <a href="https://github.com/nuyahy" target="_blank">🏷️ EnjoyToShare </a> <span> 一个人可以走的很快，但一群人才能走的更远！</span>',
+        copy: '<div class = "over" >完结</div><br/><span id="sitetime"></span><br/><span>Copyright &copy; 2021 - 至今</span>',
+        auth: ' <a href="https://github.com/nuyahy" target="_blank">🏷️ NuyahyToShare </a> <span> 一个人可以走的很快，但一群人才能走的更远！</span>',
         pre: '<hr/>',
         style: 'text-align: left;',
       },//添加页脚
@@ -436,6 +436,21 @@
 
     }
   </script>
+  <!--插入“gitalk评论”模块-->
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="js/md5.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '3ab278a552a4fc8d4e21',
+      clientSecret: 'e97f8f5a2fe73e885ced0da2bde44e4526174962',
+      repo: 'NoteBook',
+      owner: 'nuyahy',
+      admin: ['nuyahy'],
+      id: location.pathname,      // Ensure uniqueness and length less than 50
+      distractionFreeMode: true  // Facebook-like distraction free mode
+    })
+  </script>
   <script src="https://notebook.js.org/plugin/js/docsify.min.js"></script>
   <script src="https://notebook.js.org/plugin/search.min.js"></script>
   <script src="https://notebook.js.org/plugin/zoom-image.min.js"></script>
@@ -469,7 +484,6 @@
       });
     });
   </script>
-
   <!-- 代码块样式优化-->
   <script src="https://notebook.js.org/plugin/prism-c.js"></script>
   <!--<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>-->
@@ -509,7 +523,7 @@
   <script>
     document.body.oncopy = function () {
      swal("复制成功 🎉",
-             "若要转载或引用请务必保留原文链接，并申明来源。如果你觉得本仓库不错，那就来 GitHub 给个 Star 吧 😊   - by 吴跟强",
+             "若要转载或引用请务必保留原文链接，并申明来源。如果你觉得本仓库不错，那就来 GitHub 给个 Star 吧 😊   - by Nuyahy",
              "success"); };
   </script>
 
