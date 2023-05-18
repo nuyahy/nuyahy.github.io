@@ -34,5 +34,4 @@
 - **知乎：** [https://www.zhihu.com/people/nuyahy](https://www.zhihu.com/people/nuyahy)
 
 - **微信公众号：** 整点风声（扫码关注我呀 🥤）
-
-  <div ><img src="https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808182633.jpg" width="200" height="200" /></div>
+![](../images/myinfo/20220519-01-myinfo.jpg)
