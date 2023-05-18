@@ -469,6 +469,21 @@
       });
     });
   </script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '39487dcf86f31c63c3df',
+      clientSecret: '6711118fbd843bcf70155e2d977bf5318164b15b',
+      repo: 'nuyahy.github.io',
+      owner: 'nuyahy',
+      admin: ['nuyahy'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
   <!-- 代码块样式优化-->
   <script src="https://notebook.js.org/plugin/prism-c.js"></script>
   <!--<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>-->
