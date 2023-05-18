@@ -6,10 +6,9 @@
   - [🐋 刷题 OJ](README?id=🐋-刷题-oj)
   - [🥼 前端学习](README?id=🥼-前端学习)
   - [🔨 工具 COOL](README?id=🔨-工具-cool)
-  - [🎅 赞赏作者](README?id=🎅-赞赏作者)
 - [<span class="iconfont icon-csdn"></span> CSDN](https://blog.csdn.net/qq_42327444)
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](关于/)
-- [⛷ 生信交流群](https://mp.weixin.qq.com/s/rWAl_jRxay-IVUM1S_19LA)
+- [⛷ 学习交流群](https://mp.weixin.qq.com/s?__biz=Mzg2MzU1NDkwMg==&mid=2247483992&idx=1&sn=5701493465ef2a8fa78306f087ea82d0&chksm=ce779e61f9001777bda7374fce6c3fce99b976866fbcefa1516b64da8b2829e0bed18c8bba61#rd)
 
 
 

@@ -2,7 +2,7 @@
 
 ## 📚 Blog
 
-这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是本科及研究生阶段所学的计算机专业知识。如果你喜欢这个博客 & 主题欢迎到 [GitHub](https://github.com/wugenqiang/NoteBook) 点个 Star，或者交换[友链](https://notebook.js.org/#/关于/Friends) ( •̀ ω •́ )✧
+这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是自己所学的计算机专业知识。如果你喜欢这个博客 & 主题欢迎到 [GitHub](https://github.com/nuyahy/nuyahy.github.io) 点个 Star，或者交换[友链](https://nuyahy.github.io/#/关于/Friends) ( •̀ ω •́ )✧
 
 > 文档网站构建方法：[Docsify](Project/Docsify/)，文章内容仅是我个人的小总结，如有误还请指正。
 
@@ -17,24 +17,22 @@
 
 ## 🐼 Me
 
-本科阶段从事 Java 软件开发工作，研究生阶段研究方向为机器学习、数据挖掘以及生物信息学方向等等， 本人 ↓↓↓
-
-![](https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200617115404.jpg)
+本科阶段从事 Java 软件开发工作
 
 ## 💌 联系
 
-- **WeChat：** 18360861937
+- **WeChat：** WanglesYiYu
 
-- **QQ：** 2422676183
+- **QQ：** 644904098
 
-- **Email：** 18360861937@163.com
+- **Email：** nuyahy@163.com
 
-- **GitHub：** [https://github.com/wugenqiang](https://github.com/wugenqiang)
+- **GitHub：** [https://github.com/nuyahy](https://github.com/nuyahy)
 
-- **CSDN：** [https://blog.csdn.net/wugenqiang](https://blog.csdn.net/wugenqiang)
+- **CSDN：** [https://blog.csdn.net/nuyahy](https://blog.csdn.net/qq_42327444)
 
-- **知乎：** [https://www.zhihu.com/people/wugenqiang/](https://www.zhihu.com/people/wugenqiang)
+- **知乎：** [https://www.zhihu.com/people/nuyahy](https://www.zhihu.com/people/nuyahy)
 
-- **微信公众号：** 码客趣分享（扫码关注我呀 🥤）
+- **微信公众号：** 整点风声（扫码关注我呀 🥤）
 
   <div ><img src="https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808182633.jpg" width="200" height="200" /></div>

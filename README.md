@@ -9,7 +9,7 @@
 
 ## ☕️ Java
 
-* [Java 入门基础编程笔记](/Java/Java-Base-Notes.md)
+* [JVM](/Java/Java-Base-Notes.md)
 
 ## 🐍 Python
 
@@ -104,9 +104,5 @@
 * [🔨 ToolBox 实用工具库](ToolBox/Tools.md)
 * [🔨 写博客必备软件推荐](ToolBox/写博客必备神器.md)
 * [🔨 Latex 语法使用指南](ToolBox/LaTex使用指南)
-
-# 🎅 赞赏作者
-
-我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 打赏地址：[https://wugenqiang.js.org/sponsor/](https://wugenqiang.js.org/sponsor/)
 
 <div ><img src="" width="200" height="200" /></div>
