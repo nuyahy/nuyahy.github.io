@@ -90,19 +90,8 @@
   
   * 来这里看看：[🚀 技术面试题](interview/README.md)
 
-# 🎨 论文投稿
-
-* [🎉 分享免费下载论文的网站](ToolBox/ShareToFreeDownloadPapers.md)
-* [🎉 分享如何在论文中画漂亮的插图](ToolBox/分享如何在论文中画插图.md)
-* [🎉 LaTex 语法使用指南](ToolBox/LaTex使用指南.md)
-* [🎉 如何在期刊上发表论文](论文方面/如何在期刊上发表论文.md)
-* [🎉 SCI 论文写作攻略](论文方面/SCI论文写作攻略.md)
-* [🎉 EndNote 使用教程](/论文方面/EndNote使用教程.md)
-
 # 🔨 工具 CooL
 
 * [🔨 ToolBox 实用工具库](ToolBox/Tools.md)
 * [🔨 写博客必备软件推荐](ToolBox/写博客必备神器.md)
 * [🔨 Latex 语法使用指南](ToolBox/LaTex使用指南)
-
-<div ><img src="" width="200" height="200" /></div>
