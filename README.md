@@ -9,7 +9,8 @@
 
 ## ☕️ Java
 
-* [JVM](/Java/Java-Base-Notes.md)
+* **【一】[JVM]**
+  * [0 - Jvm内存区域](./Java/JVM/0-Jvm内存区域)
 
 ## 🐍 Python
 
